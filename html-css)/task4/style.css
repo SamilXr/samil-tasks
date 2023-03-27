@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  div {
+    text-align: center;
+  }
+  a {
+    text-decoration: none;
+    padding: 70px;
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    color: rgb(210, 25, 25);
+    background-color: aquamarine;
+  }
+  img {
+    width: 100%;
+    
+  
+  }
+  p {
+    margin: 35px;
+  }
+  h3 {
+    margin: 20px;
+  }
+  button {
+    background-color: rgb(41, 187, 114);
+    border-radius: 3px;
+    width: 155px;
+    height: 45px;
+    border-style: none;
+    margin: 30px;
+    color: antiquewhite;
+    font-weight: 800;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+  .class1{
+      text-align: right;
+      margin: 35px; 
+  }
+  body{
+    background-color: rgb(221, 234, 245);
+  }
