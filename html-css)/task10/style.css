@@ -1,0 +1,13 @@
+h1{
+    font-family: Roboto;
+    text-align: center;
+    background-color: bisque;
+    margin: 0;
+    box-sizing: border-box;
+}
+p{
+    font-family: Deliciuos;
+    text-align: center;
+    background-color: aquamarine;
+    margin: 0;
+}
