@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    background-color: darkgray;
+    box-sizing: border-box;
+    margin: 0;
+    height: 100px;
+    padding: 30px;
+}
+div{
+    background-color: black;
+    padding: 20px;
+    box-sizing: border-box;
+}
+a{
+    color: aliceblue;
+    padding: 10px;
+    text-decoration: none;
+    
+
+}
+
+
+
+
