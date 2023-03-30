@@ -1,47 +1,52 @@
-*{
+* {
     margin: 0;
 }
 
-.one{
+.one {
     box-sizing: border-box;
     text-align: center;
     background-color: black;
     color: aliceblue;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-   height: 100px;
-  padding: 15px;
+    height: 100px;
+    padding: 15px;
 }
-a{
+
+a {
     text-decoration: none;
     color: aliceblue;
     padding: 65px;
-    
-    
+
+
 }
-.two{
+
+.two {
     background-color: sienna;
     padding: 10px;
 }
-img{
+
+img {
     width: 100%;
     margin: 0;
     display: block;
-    
-   
-    
-    
+
+
+
+
 }
-.third{
+
+.third {
     background-color: bisque;
     box-sizing: border-box;
     text-align: center;
-    
-    
-    
+
+
+
 }
-.five{
+
+.five {
     background-color: darkred;
     padding: 15px;
-    
-    
+
+
 }
