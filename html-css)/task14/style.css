@@ -1,0 +1,12 @@
+div{
+    width: 300px;
+    border: 2px solid;
+    margin: 0 auto;
+    text-align: center;
+}
+div:hover{
+    border-radius: 10px;
+}
+div:hover h1{
+    color: green;
+}
