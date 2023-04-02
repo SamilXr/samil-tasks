@@ -29,7 +29,7 @@ body {
 
 ::selection {
     background-color: hsla(var(--hue--1), 55%, 25%, 0.8);
-    color: antiquewhite;
+    color: rgb(229, 192, 144);
 
 }
 
