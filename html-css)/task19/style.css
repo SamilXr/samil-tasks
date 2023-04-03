@@ -1,0 +1,30 @@
+body{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+
+}
+.container{
+    border: solid 2px black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 500px;
+
+}
+h1{
+    color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.but{
+    border: solid 2px green;
+    border-radius: 3px;
+    color: darkgray;
+    background-color: aqua;
+    margin: 5px;
+}
