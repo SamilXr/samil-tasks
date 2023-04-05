@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    background-color: antiquewhite;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 30px 200px;
+
+
+}
+
+.left,
+.right {
+    width: 300px;
+    height: 300px;
+    background-image: url(../task17/tree.avif);
+    background-size: cover;
+    background-position: right;
+}
+
+.right {
+    position: relative;
+}
+
+.right::after {
+    content: "";
+    inset: 0;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5)
+}

@@ -1,0 +1,97 @@
+body {
+    background-color: rgb(228, 112, 112);
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+section {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+
+
+
+
+
+
+}
+
+.forum-box {
+    border: solid 1px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: aliceblue;
+    border-radius: 5%;
+    width: 40vh;
+    height: 50vh;
+    justify-content: space-between;
+
+
+
+
+
+
+
+
+
+
+}
+
+.join {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(208, 100, 100);
+    font-size: x-large;
+    padding: 10px;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+input {
+    border: solid 1px rgb(216, 203, 203);
+    border-radius: 7px;
+    width: 30vh;
+    height: 40px;
+
+
+}
+
+button {
+    width: 35vh;
+    height: 50px;
+    font-size: medium;
+    font-family: cursive;
+    border: solid 1px;
+    border-radius: 10px;
+    background-color: rgb(208, 100, 100);
+    color: aliceblue;
+
+
+}
+
+input:focus-visible {
+    outline: 1px solid crimson;
+
+}
+
+hr {
+    margin: 10px;
+
+}
+
