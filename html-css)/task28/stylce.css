@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+nav {
+    background-image: url(./blue.jpg);
+    background-size: cover;
+
+
+}
+
+
+
+
+section {
+    background-image: url(./css.png);
+    background-size: cover;
+
+
+}
+
+.container {
+    display: flex;
+    justify-content: right;
+    padding: 20px;
+
+}
+
+form {
+    margin-top: 7em;
+}
+
+footer {
+    background-color: rgb(63, 77, 160);
+    padding: 6px;
+}
